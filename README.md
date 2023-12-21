@@ -79,3 +79,9 @@ mkdir -p src/{ts/__tests__,css/} && touch webpack.config.js && touch src/{index.
 npm i -D webpack webpack-cli babel-loader css-loader html-loader html-webpack-plugin mini-css-extract-plugin webpack-dev-server style-loader
 
 ```
+
+Обновить Webpack
+
+```
+npm install webpack@latest webpack-cli@latest
+```
