@@ -71,7 +71,11 @@ mkdir -p src/{ts/__tests__,css/} && touch webpack.config.js && touch src/{index.
 
 ```
  npm i -D jest babel-jest @babel/core @babel/cli @babel/preset-env core-js@latest minimatch@3.0.2
+```
+```
  npm i -D eslint
+```
+```
 npm i -D webpack webpack-cli babel-loader css-loader html-loader html-webpack-plugin mini-css-extract-plugin webpack-dev-server style-loader
 
 ```
