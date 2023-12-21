@@ -85,3 +85,9 @@ npm i -D webpack webpack-cli babel-loader css-loader html-loader html-webpack-pl
 ```
 npm install webpack@latest webpack-cli@latest
 ```
+Обновить mini-css-extract-plugin:
+
+```
+npm install mini-css-extract-plugin@^1.0.0
+
+```
