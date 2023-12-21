@@ -63,7 +63,7 @@ npx test
 создать все нужные папки 
 
 ```
-mkdir -p src/{ts/__tests__,css/} && touch webpack.config.js && touch src/{index.ts,index.html,ts/app.ts,css/style.css,ts/__tests__/app.test.ts} && touch .eslintignore && touch .eslintrc.js && touch .gitignore && touch babel.config.json && touch jest.config.js
+mkdir -p src/{ts/__tests__,css/,dist/} && touch webpack.config.js && touch src/{index.ts,index.html,ts/app.ts,css/style.css,ts/__tests__/app.test.ts} && touch .eslintignore && touch .eslintrc.js && touch .gitignore && touch babel.config.json && touch jest.config.js
 
 ```
 
