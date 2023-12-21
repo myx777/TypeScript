@@ -49,7 +49,9 @@ npm install --save-dev typescript ts-loader
 ## Jest
 ```
 npm install --save-dev ts-jest @types/jest
+```
 
+```
 npx ts-jest config:init
 ```
 Для теста:
